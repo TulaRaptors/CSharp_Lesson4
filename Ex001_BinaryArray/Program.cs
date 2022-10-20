@@ -1,8 +1,5 @@
 ﻿// Задать массив из 8 элементов, заполненных нулями и единицами вывести их на экран
 
-
-Console.Clear();
-
 void FillArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
